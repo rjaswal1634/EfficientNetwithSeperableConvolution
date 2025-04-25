@@ -1,0 +1,19 @@
+Overall Test Accuracy (Combined Val + Test): 99.86%
+
+Classification Report on Combined Validation + Test Set:
+              precision    recall  f1-score   support
+
+      cloudy       1.00      1.00      1.00       300
+      desert       1.00      1.00      1.00       503
+  green_area       1.00      1.00      1.00       300
+       water       1.00      1.00      1.00       300
+
+    accuracy                           1.00      1403
+   macro avg       1.00      1.00      1.00      1403
+weighted avg       1.00      1.00      1.00      1403
+
+Per-Class Accuracy:
+Accuracy for cloudy: 100.00%
+Accuracy for desert: 99.80%
+Accuracy for green_area: 99.67%
+Accuracy for water: 100.00%

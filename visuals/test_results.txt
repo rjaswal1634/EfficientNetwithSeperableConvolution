@@ -1,0 +1,4 @@
+Test Results Summary
+====================
+Custom EfficientNet - Test Loss: 0.0099, Test Accuracy: 99.71%
+Bare EfficientNet-B0 - Test Loss: 0.0016, Test Accuracy: 100.00%
